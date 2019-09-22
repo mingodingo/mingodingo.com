@@ -4,6 +4,7 @@ description:        Mingo Dingo
 author:             Mingo, a Dingo
 baseurl:            "/"
 url:                "https://mingodingo.com"
+destination:        "../site"
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
